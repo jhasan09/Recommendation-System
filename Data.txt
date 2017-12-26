@@ -1,0 +1,585 @@
+30,Hollow City,Ransom Riggs,2014,4.07              
+35,Maybe Someday,Colleen Hoover,2014,4.50
+32,The One,Kiera Cass,2014,4.32
+40,City of Heavenly Fire,Cassandra Clare,2014,4.56
+45,The Invention of Wings,Sue Monk Kidd,2014,4.25
+25,Dreams of Gods & Monsters,Laini Taylor,2014,4.35
+37,The Ice Princess,Camilla Läckberg,2014,3.65
+46,The Blood of Olympus,Rick Riordan,2014,4.71
+28,We Were Liars,E. Lockhart,2014,4.03
+55,Cruel Beauty,Rosamund Hodge,2014,3.80
+41,Into the Still Blue,Veronica Rossi,2014,4.24
+50,Lost Lake,Sarah Addison Allen,2014,3.91
+60,Words of Radiance,Brandon Sanderson,2014,4.78
+22,Love Letters to the Dead,Ava Dellaira,2014,4.01
+65,Red Rising,Pierce Brown,2014,4.18
+70,Silver Shadows,Richelle Mead,2014,4.55
+52,Take a Chance,Abbi Glines,2014,4.17
+39,Beautiful Oblivion,Jamie McGuire,2014,4.13
+47,The Marriage Trap,Jennifer Probst,2014,3.91
+57,Rebel Belle,Rachel Hawkins,2014,3.97
+42,The Winner's Curse,Marie Rutkoski,2014,4.09
+52,Up From the Grave,Jeaniene Frost,2014,4.26
+63,Frog Music,Emma Donoghue,2014,3.26
+59,The Bane Chronicles,Cassandra Clare,2014,4.07
+60,The Book of Life,Deborah Harkness,2014,4.26
+33,Half Bad,Sally Green,2014,3.84
+44,The Enemy,Charlie Higson,2014,4.07
+56,Before Jamaica Lane,Samantha Young,2014,4.40
+27,Rush Too Far,Abbi Glines,2014,4.39
+51,Don't Look Back,Jennifer L. Armentrout,2014,4.04
+63,The Daylight War,Peter V. Brett,2014,4.23
+18,Dorothy Must Die,Danielle Paige,2014,3.88
+49,The Guard,Kiera Cass,2014,3.82
+58,Night Broken,Patricia Briggs,2014,4.40
+68,Archer's Voice,Mia Sheridan,2014,4.63
+71,Tied with Me,One More Chance,2014,4.26
+32,Better off Friends,Elizabeth Eulberg,2014,3.88
+49,Reaper's Legacy,Joanna Wylde,2014,4.32
+55,After the End,Amy Plum,2014,3.78
+64,Ugly Love,Colleen Hoover,2014,4.31
+24,Sweet Reckoning,Wendy Higgins,2014,4.48
+56,Rusty Nailed,Alice Clayton,2014,4.31
+35,Ruin and Rising,Leigh Bardugo,2014,4.33
+45,The Weight of Blood,Laura McHugh,2014,3.72
+36,Side Effects May Vary,Julie Murphy,2014,3.61
+66,Heir of Fire,Sarah J. Maas,2014,4.66
+72,The Winter People,Jennifer McMahon,2014,3.75                             
+23,Glitter and Glue,Kelly Corrigan,2014,3.78
+31,Rare and Precious Things,Raine Miller,2014,4.18           
+41,The Infinite Sea,Rick Yancey,2014,4.40
+50,Stay with Me,J. Lynn,2014,4.13
+60,The Undead Pool,Kim Harrison,2014,4.49
+70,Breathe with Me,Kristen Proby,2014,4.30
+61,Since You've Been Gone,Morgan Matson,2014,4.23
+21,Missing You,Harlan Coben,2014,3.99
+19,Off the Record,K.A. Linde,2014,4.08
+51,Beauty from Love,Georgia Cates,2014,4.17
+69,After I'm Gone,Laura Lippman,2014,3.64
+49,Forever with You,Laurelin Paige,2014,4.37
+39,The Forever Song,Julie Kagawa,2014,4.27
+74,Of Neptune,Anna Banks,2014,4.09
+34,Take Me On,Katie McGarry,2014,4.15
+55,Skin Game,Jim Butcher,2014,4.59
+27,Bad for You,Abbi Glines,2014,4.31
+67,The Enchanted,Rene Denfeld,2014,3.98
+28,The Course of True Love,Cassandra Clare,2014,4.27
+68,Sea of Shadows,Kelley Armstrong,2014,3.71
+40,In the Afterlight,Alexandra Bracken,2014,4.50
+73,Sweet Filthy Boy,Christina Lauren,2014,4.34
+38,Four Years Later,Monica Murphy,2014,4.12
+42,Lovely Trigger,R.K. Lilley,2014,4.61
+45,Love Unguarded,Tina Reber,2014,4.00
+23,Stolen Songbird,Danielle L. Jensen,2014,4.06
+33,The Iron Trial,Cassandra Clare,2014,4.19
+44,Sixth Grave on the Edge,Darynda Jones,2014,4.51
+21,The Young Elites,Marie Lu,2014,3.91
+20,Tempting the Bodyguard,J. Lynn,2014,4.04
+69,Open Road Summer,Emery Lord,2014,4.02
+49,Song of the Fireflies,J.A. Redmerski,2014,3.61
+57,Scare Crow,Julie Hockley,2014,3.99
+32,Mortal Heart,Robin LaFevers,2014,4.27
+43,The Murder Complex,Lindsay Cummings,2014,3.80             
+58,Clockwork Princess,Cassandra Clare,2013,4.58
+48,Life After Life,Kate Atkinson,2013,3.74
+37,The Cuckoo's Calling,Robert Galbraith,2013,3.80
+47,Entwined with You,Sylvia Day,2013,4.14
+18,Walking Disaster,Jamie McGuire,2013,4.26
+30,The Storyteller,Jodi Picoult,2013,4.24
+40,The 5th Wave,Rick Yancey,2013,4.12
+50,The Rosie Project,Graeme Simsion,2013,4.03
+60,The House of Hades,Rick Riordan,2013,4.54
+70,Doctor Sleep,Stephen King,2013,4.13
+51,Wait for You,J. Lynn,2013,4.25
+31,The Interestings,Meg Wolitzer,2013,3.57
+71,Orphan Train,Christina Baker Kline,2013,4.08
+41,Beautiful Bastard,Christina Lauren,2013,4.08
+32,Where We Belong,Emily Giffin,2013,3.84
+62,Never Too Far,Abbi Glines,2013,4.25
+52,How to Be a Woman,Caitlin Moran,2013,3.74
+35,Just One Day,Gayle Forman,2013,4.09
+65,The House Girl,Tara Conklin,2013,3.78
+75,The Indigo Spell,Richelle Mead,2013,4.48
+39,Losing Hope,Colleen Hoover,2013,4.52
+49,Lover at Last,J.R. Ward,2013,4.26             
+59,The Bone Season,Samantha Shannon,2013,3.66
+69,The Silver Star,Jeannette Walls,2013,3.61
+54,Forever Too Far,Abbi Glines,2013,4.27
+65,Killing Patton,Martin Dugard,2010,2.00
+33,Gone Girl,Gillian Flynn,2012,2.01
+56,Zero to One,Peter A. Thiel,2008,2.02
+65,Edge of Eternity,Ken Follett,2009,2.03
+34,Thug Kitchen,Thug Kitchen,2010,2.04
+43,The Maze Runner,James Dashner,2011,2.04
+44,The Alchemist,Paulo Coelho,2012,2.05
+45,Outlander,Diana Gabaldon,2013,2.06
+46,StrengthsFinder,Tom Rath,2014,2.07
+47,Monster Manual,Wizards RPG Team,2012,2.08
+48,If I Stay,Gayle Forman,2005,2.09
+49,Jesus on Trial,David Limbaugh,2009,2.10
+50,Little Humans,Brandon Stanton,2010,2.11
+51,Orphan Train,Christina Baker,2007,2.12
+52,Player's Handbook,Wizards RPG Team,2009,2.13
+60,The Conscious Parent,Dr. Shefali Tsabary,2008,2.14 
+53,The Death Cure,James Dashner,2010,2.15
+54,Dragonfly in Amber,Diana Gabaldon,2013,2.15
+55,The Best Yes,Lysa TerKeurst,2011,2.16
+56,First 100 Words,Roger Priddy,2013,2.17
+57,Unbroken,Laura Hillenbrand,2012,2.18
+58,Gray Mountain,John Grisham,2013,2.19
+30,Love You Forever,Robert Munsch,2009,2.20
+27,Wonder,R. J. Palacio,2007,2.21
+29,World Order,Henry Kissinger,2006,2.22
+31,Killing Patton,Martin Dugard,2011,2.23
+32,The Giver,Lois Lowry,2013,2.24
+33,Where She Went,Gayle Forman,2012,2.25
+34,Grain Brain,David Perlmutter,2010,2.26
+35,How Google Works,Eric Schmidt,2006,2.27
+36,The Contract,Derek Jeter,2008,2.28
+37,Power Grab,Dick Morris,2007,2.29
+38,Jesus Calling,Sarah Young,2013,2.30
+39,Michael Vey 4,Richard Paul Evans,2010,2.31
+40,Gone Girl,Gillian Flynn,2011,2.32
+41,Goodnight Moon,Wise Brown,2013,2.33
+43,Looking for Alaska,John Green,2012,2.34
+44,Dear Zoo,Rod Campbell,2011,2.35
+45,Women in Clothes,Heidi Julavits,2010,2.36
+46,The Artist's Way,Julia Cameron,2008,2.37
+47,Danny Clinch,Danny Clinch,2009,2.38
+48,Primer Level,Nancy Faber,2010,2.39
+49,Barnyard Dance!,Sandra Boynton,2013,2.40
+50,Slim by Design,Brian Wansink,2009,2.41
+51,Underwater Puppies,Seth Casteel,2005,2.42
+61,John Lennon,Philip Norman,2008,2.43
+62,Underwater Dogs,Seth Casteel,2006,2.43
+63,Pattern Play, Cris Letourneau,2008,2.44
+64,Elvis and Ginger,Alden Ginger,2009,2.45
+65,Sarah Style,Sarah Richardson,2007,2.46  
+66,Understanding Exposure,Bryan Peterson,2011,2.47
+31,The Nesting Place,Myquillyn Smith,2014,2.48
+32,The Dot,Peter Reynolds,2008,2.49
+33,Markham Roberts,Markham Roberts,2012,2.50
+34,One Man's Folly,Julia Reed,2007,2.51
+35,Graphic Design,Jennifer C. Phillips,2009,2.52
+36,Nancy Braithwaite,Nancy Braithwaite,2012,2.53
+37,Building Construction,Francis D. K. Ching,2013,2.54
+38,At Home,Bill Bryson,2012,2.55
+39,Design Drawing,Francis D.K. Ching,2011,2.56
+40,Compact Cabins,Gerald Rowan,2013,2.57
+41,Make Space,Scott Doorley,2010,2.58
+42,A Pattern Language,Christopher Alexander,2011,2.59
+43,Walkable City,Jeff Speck,2013,2.60
+44,Drawing Ideas,Mark Baskinger,2008,2.61
+45,Mark Baskinger,Vincent Pomarède,2005,2.62
+46,The Story of Art,E. H. Gombrich,2006,2.63
+47,Conklin's Foundation,Brooke Page,2007,2.64
+48,Landscape Graphics,Grant W. Reid,2008,2.65
+49,Architectural Graphics,Francis D. K. Ching,2009,2.66
+50,Operative Design,Anthony di Mari,2011,2.67
+51,Water Storage,Art Ludwig,2013,2.68
+52,Art Ludwig,Kate Ascher,2012,2.69
+53,Concrete Countertops,Fu-Tung Cheng,2013,2.70
+54,Thomas Pheasant,Victoria Sant,2010,2.71
+55,Compact Cabins,Gerald Rowan,2013,2.72
+56,Suzanne Kasler,Suzanne Kasler,2009,2.73
+57,American Architecture,Leland M. Roth,2013,2.74
+58,Massive Change,Bruce Mau,2012,2.75
+59,Buildings across Time,Michael Fazio,2009,2.76
+60,Design Brooklyn,Michel Arnaud,2010,2.77
+61,The Grand Tour,Harry Seidle,2011,2.78
+62,Privacy and Publicity,Beatriz Colomina,2009,2.79
+63,Delirious New York,John Richards,2013,2.80
+64,Peter Eisenman,Peter Eisenman,2012,2.81
+65,The Architect Says,Laura Dushkes,2010,2.82
+66,Frederic Chaubin,Frédéric Chaubin,2011,2.83
+67,Gregotti & Associates,Guido Morpurgo,2013,2.84
+68,The Sea Ranch,The Sea Ranch,2011,2.85
+69,Ecological Architecture,James Steele,2011,2.85
+31,How Architecture Works,Witold Rybczynski,2014,2.86
+32,Understanding Architecture,Leland Roth,2009,2.87
+33,FUNCTION OF FORM,Farshid Moussavi,2005,2.88
+34,Bricks & Mortals,Tom Wilkinson,2010,2.89
+35,City Life,Witold Rybczynski,2008,2.90
+36,An Open Mind,Blundell Peter,2009,2.91
+37,How Architects Write,Tom Spector,2008,2.92
+38,All Over the Map,Michael Sorkin,2007,2.93
+39,Urban Design,William S. Saunders,2009,2.94
+40,Black and White,Celerie Kemble,2009,2.95
+41,Interior Decorating,Georg Andersen,2012,2.96
+42,Marrakesh by Design,Maryam Montague,2013,2.97
+43,Equestrian Style,Vicky Moon,2012,2.98
+44,Mountain Modern,Dominic Bradbury,2013,2.99
+45,Country Decorating,Time-Life Books,2012,3.00
+46,Classic Florida Style,William Taylor,2009,1.00
+47,Mission Furniture,H.H. Windso,2006,1.01
+48,Interior Decorating,Georg Andersen,2008,1.02
+49,Marrakesh by Design,Maryam Montague,2009,1.03
+50,Equestrian Style,Vicky Moon,2011,1.04
+51,Container Atlas,M. Buchmeier,2013,1.05
+52,American House Styles,John Milnes Baker,2014,1.06
+53,Country Decorating,Time-Life Books,2010,1.07
+54,Home Rules,Nate Berkus,2009,1.08
+55,House Colors,Susan Hershman,2013,1.09
+56,American Art Deco,Carla Breeze,2007,1.10
+57,Miniature Rooms,Kathleen Aguilar,2009,1.11
+58,Coastal Modern,Jake Townsend,2011,1.12
+59,Jake Townsend,Marcia Reiss,2005,1.13
+60,Elle Decor,François Baudot,2006,1.14
+61,Hacienda Style,Karen Witynski,2007,1.15
+62,Equestrian Style,Vicky Moon,2009,1.16
+63,Casa Yucatan,Karen Witynski,2010,1.17
+64,Color Palettes,Suzanne Butterfield,2011,1.18
+65,Creating a Room,Creating a Room,2006,1.19
+66,Novel Interiors,Lisa Borgnes,2009,1.20
+67,Modern Retro,Andrew Weaving,2008,1.21
+68,Salvage Style,Joe Rhatigan,2008,1.22
+69,Stone by Design,Lew French,2009,1.23
+31,Ironwork Today,Dona Z. Meilach,2013,1.24
+32,Spectacular Walls!,Jeannine Dostal,2011,1.25
+33,Southern Style,Mark Mayfield,2013,1.26
+34,Country Christmas,Caroline Atkins,2007,1.27
+35,The Swedish House,Ingalill Snitt,2008,1.28
+36,The Dot,Peter Reynolds,2009,1.29
+37,Graphic Design,Jennifer C. Phillips,2011,1.30
+38,Design Drawing,Francis D.K. Ching,2007,1.31
+39,Art: A Brief History,Michael W. Cothren,2008,1.32
+40,Make Space,Scott Doorley,2006,1.33
+41,Landscape Graphics,Grant W. Reid,2006,1.33
+42,Architectural Graphics,Francis D. K. Ching,2004,1.34
+43,High Line,Joshua David,2012,1.35
+44,Architectural Drawing,Mo Zell,2007,1.36
+45,CNC Programming,Peter Smid,2010,1.37
+46,Engineering Fundamentals,Saeed Moaveni,2006,1.38
+47,Graphic Design Theory,Helen Armstrong,2010,1.39
+48,Interior Design Illustrated,Christina M. Scalise,2012,1.40
+49,Digital Fabrications,Lisa Iwamoto,2012,1.41
+50,Shelter,Lloyd Kahn,2011,1.42
+51,The Interior Plan,Roberto J. Rengel,2011,1.43
+52,Architectural Drawing,Rendow Yee,2009,1.44
+53,Feng-Shui,Eva Wong,2010,1.45
+54,Designing Disney,Peggy Van Pelt,2013,1.46
+55,Housing Design,Bernard Leupen,2011,1.47
+56,Building Big,David MacAulay,2012,1.48
+57,Color Drawing,Michael E. Doyle,2010,1.49
+58,Materials for Design,Patrick Rand,2011,1.50
+59,Case Study Houses,Elizabeth A. T. Smith,2010,1.51
+60,Farmhouse Revival,Susan Daley,2013,1.52
+61,North Brother Island,Christopher Payne,2012,1.53
+62,Case Study Houses,Elizabeth A. T. Smith,2011,1.54
+63,Historic Preservation,Norman Tyler,2013,1.55
+64,Lady on the Hill,Howard E. Covington,2010,1.56
+65,Keeping Time,William J. Murtagh,2009,1.57
+66,Lake Houses,John De Visser,2008,1.58
+67,Barn in the U.S.A.,Robert Crittendon,2009,1.59
+68,Time Honored,John H. Stubbs,2010,1.60
+69,Robert Polidori,Robert Polidori,2012,1.61
+31,The Green Museum,Sarah S. Brophy,2011,1.62
+32,Architecture of France,David A. Hanser,2011,1.63
+33,Creole Houses,Steve Gross,2012,1.64
+34,The Willard Hotel,Richard Wallace,2011,1.65
+35,Best Addresses,James M. Goode,2010,1.66
+36,Uncommon Vernacular,John C. Allen Jr.,2011,1.67
+37,San Antonio's Spanish,Mike Osborne,2009,1.68     
+38,Shelter at the Shore,John DeVisser,2010,1.69
+39,Guardian of Savannah,Roger S. Durham,2007,1.70
+40,Living Buildings,Donald Insall,2008,1.71
+41,Building Museums,Robert Herskovitz,2011,1.72
+42,Tokyo Vernacular,Jordan Sand,2012,1.73
+43,Shattered Spaces,Michael Meng,2013,1.74
+44,Colonial Houses,Hugh Howard,2009,1.75
+45,New York,Gerard R. Wolfe,2010,1.76
+46,Gerard R. Wolfe,Howard E. Covington,2011,1.77
+47,Chicago River Bridges,Patrick T. McBriarty,2013,1.78
+48,Wilmington,Beverly Tetterton,2012,1.79
+49,Cultural Landscapes,Richard Longstreth,2013,1.79
+50,Une Belle Maison,S. Frederick Starr,2009,1.80
+51,California Theme Parks,Alex Mille,2007,1.81
+52,Chinese Houses,Ronald G. Knapp,2008,1.82
+53,Historic Preservation,Norman Tyler,2009,1.83
+54,Lighthouses,Lighthouses,2010,1.84
+55,Preserving South Street,James Michael Lindgren,2012,1.84
+56,American Lighthouses,American Lighthouses,2013,1.85
+57,Dwelling in Possibility,Howard Mansfield,2006,1.86
+58,Cape Cod Modern,Christine Cipriani,2009,1.87
+59,Delirious New York,Rem Koolhaas,2012,1.88
+60,American Architecture,Leland M. Roth,2011,1.89
+61,Case Study Houses,Elizabeth A. T. Smith,2008,1.90
+62,A Work of Beauty,Alexander McCall Smith,2009,1.91
+63,Yes Is More,Bjarke Ingels,2011,1.92
+64,Saving Italy,Saving Italy,2010,1.93
+65,Brunelleschi's Dome,Ross King,2009,1.94
+66,Lost New York,Marcia Reiss,2010,1.95
+67,Vitruvius,Vitruvius Pollio,2011,1.96
+68,How Buildings Learn,Stewart Brand,2008,1.97
+69,Ghostly Ruins,Harry Skrdla,2010,1.98
+30,Modern Architecture,Kenneth Frampton,2009,1.98
+31,Saving Italy,Robert M. Edsel,2006,1.99
+32,Buildings across Time,Michael Fazio,2008,2.00
+33,Lady on the Hill,Howard E. Covington,2007,3.01
+34,Swedish Interiors,Rhonda Eleish,2010,3.01
+35,American House Styles,John Milnes Baker,2009,3.02
+36,Modern Architecture,Alan Colquhoun,2010,3.03
+37,Lost Chicago,John Paulett,2011,3.04
+38,Moorish Style,Miles Danby,2012,3.05
+39,Living Architecture,Dominique Browning,2013,3.06
+40,Los Angeles,Reyner Banham,2010,3.07
+41,Modern Architecture,Kenneth Frampton,2008,3.08
+42,The Architecture Reader,A. Krista Sykes,2009,3.09
+43,Lost Minnesota,Jack El-Hai,2007,3.10
+44,Casa California,Jean McMillian,2008,3.11
+45,Sexuality & Space,Beatriz Colomina,2005,3.12
+46,Buildings across Time,Michael Fazio,2006,3.13
+47,Understanding Architecture,Leland M. Roth,2007,3.14
+48,Atmospheres,Peter Zumthor,2010,3.15
+49,Lost Detroit,Cheri Y. Gay,2011,3.16
+50,Container Atlas,M. Buchmeier,2011,3.17
+51,Automated Ecologies,Augustine Ong Wing,2010,3.18
+52,Holy Terrors,Rebold Benton,2009,3.19
+53,The Louvre,Vincent Pomarède,2007,3.20
+54,Peter Zumthor,Thomas Durisch,2006,3.21
+55,Inspired by Tradition,Susan Sully,2008,3.22
+56,Yes Is More,Bjarke Ingels,2009,3.21
+57,Tom Kundig,Tom Kundig,2007,3.22
+58,Frank Lloyd Wright,Bruce Brooks Pfeiffer,2008,3.23
+59,The Gardner Heist,Ulrich Boser,2009,3.24
+60,Interiors Atelier AM,Alexandra Misczynski,2010,3.25
+61,A Place of My Own,Michael Pollan,2011,3.26
+62,Rural Studio,Andrea Oppenheimer,2012,3.27
+63,Edward Hopper,Edward Hopper,2013,3.28
+64,Timeless Elegance,David Easton,2014,3.29
+65,Designs for Living,Correll Randy,2012,3.30
+66,Pamphlet Architecture 33,Luis Callejas,2012,3.31
+67,Norman Rockwell,Maureen Hart,2011,3.32
+68,Nathan Oliveira,Peter Howard Selz,2010,3.33
+69,Homes & Courtyards,Lagoni Architects,2011,3.34
+21,Toyo Ito,Dana Buntrock,2009,3.35
+22,Norman Rockwell,Maureen Hart,2008,3.36
+23,Nathan Oliveira,Peter Howard Selz,2010,3.37
+24,Fallingwater,Christopher Little,2007,3.38
+25,Homes & Courtyards,Lagoni Architects,2008,3.39
+26,Nathan Oliveira,Peter Howard Selz,2009,3.40
+27,Norman Rockwell,Maureen Hart,2010,3.41
+28,Many Masks,Brendan Gill,2011,3.42
+29,Guastavino Vaulting,Michael Freeman,2012,3.43
+30,Bok Tower Gardens,David Price,2011,3.44
+31,Impressionists in Winter,Charles S. Moffett,2011,3.45
+32,Campo Baeza,Jesus Aparicio,2010,3.46
+33,Antonio Gaudi, Juan Bassegoda,2009,3.47
+34,Terragni's Danteum,Thomas L. Schumacher,2007,3.48
+35,Many Masks,Brendan Gill,2008,3.49
+36,Campo Baeza,Jesus Aparicio,2009,3.50
+37,Tadao Ando,Philip Jodidio,2008,3.51
+38,Frank Lloyd Wright,Alan Hess,2006,3.52
+39,The Gardner Heist,Ulrich Boser,2008,3.53
+40,Bok Tower Gardens,David Price,2009,3.54
+41,Impressionists in Winter,Charles S. Moffett,2008,3.55
+42,Joseph Urban,John Loring,2011,2.56
+43,Leonardo Da Vinci,da Vinci Leonardo,2012,3.57
+44,Antonio Gaudi,Juan Bassegoda Nonell,2013,3.58
+45,The Nesting Place,Myquillyn Smith,2012,3.59
+46,Markham Roberts,Markham Roberts,2011,3.60
+47,Living Architecture,Dominique Browning,2008,3.61
+48,New York 1960,Robert A. M. Stern,2007,3.62
+49,Lina Bo Bardi,Zeuler Rocha,2008,3.63
+50,Max Dudler,Michael Monninger,2010,3.64
+51,The Gardner Heist,Ulrich Boser,2012,3.65
+52,The Louvre,Vincent Pomarède,2013,3.66
+53,Inspired by Tradition,Susan Sully,2010,3.67
+54,Peter Zumthor,Thomas Durisch,2011,3.68
+55,Tom Kundig,Tom Kundig,2009,3.69
+56,Edward Hopper,Edward Hopper,2010,3.70
+57,Wright-Sized Houses,Diane Maddex,2009,3.71
+58,Guastavino Vaulting,Guastavino Vaulting,2010,3.72
+59,Eames Design,John Neuhart,2011,3.73
+60,Yes Is More,Bjarke Ingels,2012,3.74
+61,Alvar Aalto,Jochen Eisenbrand,2011,3.75
+62,Moshe Safdie,Moshe Safdie,2006,3.76
+63,Designs for Living,Bruce Smith,2009,3.77
+64,Henri Labrouste,Barry Bergdoll,2010,3.78
+65,Gaudi Pop-Ups,Courtney Watson,2009,3.79
+66,Lina Bo Bardi,Almeida Lima,2011,3.80
+67,Urs Fischer,Jessica Morgan,2010,3.81
+68,Max Dudler,Michael Monninger,2008,3.82
+69,Forever Green,Mario Nievera,2007,3.83
+21,Interiors Atelier AM,Alexandra Misczynski,2008,3.84
+22,Allan Greenberg,Allan Greenberg,2009,3.85
+23,Daniel Libeskind,Daniel Libeskind,2008,3.86
+24,Eros in Pompeii,Michael Grant,2009,3.87
+25,Rural Studio, Andrea Oppenheimer,2010,3.80
+26,Frank Lloyd Wright,Frank Lloyd Wright,2011,3.81
+27,Arms & Armor,Arms & Armor,2010,3.82
+28,Tom Kundig,Tom Kundig,2012,3.83
+29,Royal Art of Benin,Kate Ezra,2009,3.84
+30,Edwin Lutyens,Gavin Stamp,2010,3.85
+31,Splendid Heritage,John Warnock,2009,3.86
+32,Sir Edwin Lutyens,Elizabeth Wilhide,2010,3.87
+33,Richard Knight,Richard Knight,2011,3.88
+34,The Nesting Place,Myquillyn Smith,2012,3.89
+35,Markham Roberts,Markham Roberts,2013,3.89
+36,Robert Couturier,Robert Couturier,2012,3.90
+37,One Man's Folly,Julia Reed,2011,3.91
+38,Hide and Seek,Robert Klanten,2010,3.92  
+39,Houghton Hall,Andrew W. Moore,2013,3.93
+40,Suzanne Kasler,Suzanne Kasler,2007,3.94
+41,Axel Vervoordt,Axel Vervoordt,2008,3.95
+42,Make Space,Scott Doorley,2007,3.96
+43,Cabin Fever,Rachel Carley,2009,3.97
+44,Thomas Pheasant,Victoria Sant,2010,3.98
+45,Mid-Century Modern,Bradley Quinn,2009,3.99
+46,Decorating in Detail,Alexa Hampton,2013,4.00
+47,Home Quick Planner,Daniel K. Reif,2011,4.01
+48,Glamorous Rooms,Jan Showers,2010,4.02
+49,Atomic Ranch,Michelle Gringeri-Brown,2009,4.03
+50,Jacques Garcia,Stella,2007,4.04
+51,Art of the House,Bobby McAlpine,2008,4.05
+52,Coming Home,James Lowell Strickland,2009,4.06
+53,Traditional Now,David Kleinberg,2010,4.07
+54,The Art of Faux,Pierre Finkelstein,2011,4.08
+55,Interior Design Course,Tomris Tangaz,2009,4.09
+56,Bungalow Nation,Diane Maddex,2010,4.10
+57,Handcrafted Modern,Leslie Williamson,2011,4.11
+58,Modern Originals,Modern Originals,2013,4.12
+59,Color Drawing,Michael E. Doyle,2010,4.13
+60,Interior Wisdom,Leah Richardson,2011,4.14
+61,Landscape Graphics,Grant W. Reid,2012,4.15
+62,The Granite Kiss,Kevin Gardner,2013,4.16
+63,Building Suburbia,Dolores Hayden,2010,4.17
+64,Outside the Bungalow,Douglas Keister,2009,4.18
+65,Nicklaus by Design,Jack Nicklaus,2013,4.19
+66,Formerly Urban,Julia Czerniak,2012,4.19
+67,Landscape Planning,William M. Marsh,2013,4.20
+68,Picture Perfect,David R. Mellor,2012,4.21
+69,Pools and Spas,Curtis Rist,2013,4.22
+21,Inquiry by Design,John Zeisel,2011,4.23
+22,Sand and Golf,George Waters,2013,4.24
+23,Pastoral Capitalism,Louise A. Mozingo,2012,4.25
+24,The Sea Ranch,Donlyn Lyndon,2011,4.26
+25,A Difficult Par,James R. Hansen,2012,4.27
+26,Law for Architects,Robert F. Herrmann,2013,4.28
+27,Developing Condominiums,Alexa Bach,2012,4.29
+28,Townhouse Design,Chris van Uffelen,2011,4.30
+29,Writing Architecture,Carter Wiseman,2012,4.31
+30,How to Architect,Doug Patt,2013,4.32
+31,Architecture of Bali,Made Wijaya,2014,4.33
+32,The Provisional City,Dana Cuff,2013,4.34
+33,Boutique Restaurants,John Riordan,2012,4.35
+34,Down Detour Road,Eric J. Cesal,2011,4.36
+35,Building Tall,John L. Tishman,2012,4.37
+36,The Provisional City,Dana Cuff,2011,4.38
+37,Design Portfolios,Diane M. Bender,2012,4.39
+38,Ethics for Architects,Thomas Fisher,2013,4.40
+39,Professional Practice,Paul Segal,2012,4.41
+40,Cape Cod Modern,Christine Cipriani,2011,4.42
+41,Vestiges of Grandeur,Richard Sexton,2010,4.43
+42,Hill Country Houses,Cyndy Severson,2012,4.44
+43,Inspired by Tradition,Susan Sully,2013,4.45
+44,Farmhouse Revival,Susan Daley,2012,4.46
+45,Los Angeles,Reyner Banham,2013,4.47
+46,Living in Mexico,Barbara Stoeltie,2014,4.48
+47,Lost Duluth,Tony Dierckins,2013,4.49
+48,New Orleans,Richard Sexton,2014,4.50
+49,Lina Bo Bardi,Almeida Lima,2012,4.51
+50,The Living House,Roxana Waterson,2011,4.52
+51,Living in Japan,Reto Guntli,2012,4.53
+52,Great Cathedrals,Bernhard Schütz,2012,4.54
+53,Space for Architecture,Sheila O'Donnell,2011,4.55
+54,Building Taliesin,Ron McCrea,2012,4.56
+55,Rustic Elegance,Ralph R. Kylloe,2013,4.57
+56,The National Trust,Adrian Tinniswood,2014,4.58
+57,Adrian Tinniswood,Liane Lefaivre,2013,4.59
+58,Grand Avenues,Scott W. Berg,2014,4.60
+59,The Provencal House,Johanna Thornycroft,2013,4.61
+60,American Gargoyles,Darlene Trew Crist,2011,4.62
+61,Windows on the Past,Viera,2012,4.63
+62,The Sea Ranch,Donlyn Lyndon,2013,4.64
+63,Self-Made City,Kristien Ring,2012,4.65
+64,American Houses,Mary Miers,2013,4.66
+65,Fire Island Modernist,Christopher Bascom,2012,4.67
+66,Living in China,Reto Guntli,2014,4.68
+67,Designing Camelot,James A. Abbott,2013,4.69
+68,Savannah Style,Susan Sully,2011,4.70
+69,Millau Viaduct,Norman Foster,2013,4.71
+70,Fallingwater Rising,Franklin Toker,2012,4.72
+71,New Orleans,Richard Sexton,2014,4.73
+72,The Indian Tipi,Reginald Laubin,2013,4.74
+43,Mediterranean Architecture,Jock Sewall,2011,4.75
+44,American City,Robert Sharoff,2012,4.76
+45,City in the Sky,James Glanz,2011,4.77
+46,Fallingwater Rising,Franklin Toker,2012,4.78
+22,The Upcycle,William McDonough,2011,4.79
+23,Tiny Houses,J.R. Shepherd,2013,4.80
+24,Small Eco Houses,Cristina Paredes,2012,4.81
+25,Earthbag Building,Kaki Hunter,2012,4.82
+26,Pocket Neighborhoods,Ross Chapin,2011,4.83
+27,Earth-Sheltered Houses,Rob Roy,2012,4.84
+28,Design Revolution,Emily Pilloton,2013,4.85
+29,Urban Acupuncture,Jaime Lerner,2014,4.86
+30,The Barefoot Architect,Johan van Lengen,2012,4.87
+31,Earthen Floors,Sukita Reay Crimmel,2013,4.88
+32,Prefabulous World,Sheri Koones,2012,4.89
+33,The Greenest Home,Julie Torres Moskovitz,2012,4.90
+34,The Small House Book,Jay Shafer,2013,4.91
+34,Home Sweet Hole,Lynn Dean,2012,4.92
+35,Sustainable Construction,Charles J. Kibert,2013,4.93
+36,Making Healthy Places,Howard Frumkin,2014,4.94
+37,Green Metropolis,David Owen,2013,4.95
+38,The New Net Zero,William Maclay,2011,4.96
+39,Passive Solar House,James Kachadorian,2012,4.97
+40,Frank Lloyd Wright,Alan Hess,2013,4.98
+41,Ecological Urbanism,Gareth Doherty,2013,4.99
+42,Earthbag Building,Kaki Hunter,2014,5.00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
