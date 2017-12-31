@@ -17,9 +17,9 @@ public class Cluster_seeking {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-   Double data1[]=new Double[20];
-    Double z[]=new Double[100];
-    Double minimum[]=new Double[100];
+    Double data1[]=new Double[2000000];
+    Double z[]=new Double[1000000];
+    Double minimum[]=new Double[1000000];
 
      double val;
      Scanner c;
@@ -29,17 +29,16 @@ public class Cluster_seeking {
     {
        val=c.nextDouble();
        data1[i]=val;
-    }
-   
+    } 
   
    
-   int Z[][]=new int[20][20];
-   int visit[]=new int[100];
+   int Z[][]=new int[20000][20000];
+   int visit[]=new int[1000000];
 
       double Target_Value=c.nextDouble();
       int  n=c.nextInt();
 
-      for(i=0;i<10;i++)
+      for(i=0;i<10000000;i++)
       {
           visit[i]=0;
           minimum[i]=0.0;
@@ -52,7 +51,7 @@ public class Cluster_seeking {
            length=1;
 
         double Max,k;
-       Double dist[][]=new Double[100][100];
+       Double dist[][]=new Double[10000][10000];
        boolean flag;
 
       for(i=1;i<=8;i++)
@@ -85,16 +84,6 @@ public class Cluster_seeking {
                          z[j]=data1[i];
                       }
               }
-    }
- 
-    System.out.println("Length= "+length);
-    for(i=1;i<=length;i++)
-        {
-          for(j=1;j<=Z[i][0];j++)
-          System.out.print(Z[i][j]+" ");
-          System.out.println();
-        }
-    
-    
-    }
+    } 
+   
 }

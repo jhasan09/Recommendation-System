@@ -18,9 +18,9 @@ public class maximum_distance {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-    Double data1[]=new Double[20];
-    Double z[]=new Double[100];
-    Double minimum[]=new Double[100];
+    Double data1[]=new Double[2000000];
+    Double z[]=new Double[100000];
+    Double minimum[]=new Double[1000000];
 
     double val,count=0,sum=0;
     Scanner c;
@@ -31,10 +31,12 @@ public class maximum_distance {
        val=c.nextDouble();
        data1[i]=val;
     }
-    int  n=c.nextInt();
+
+   int  n=c.nextInt();
    double fraction=c.nextDouble();
-   int Z[][]=new int[20][20];
-   int visit[]=new int[100];
+   int Z[][]=new int[20000][20000];
+   int visit[]=new int[1000000];
+   int Z1[][]=new int[2000][2000];
 
    j=1;
 
@@ -50,7 +52,7 @@ public class maximum_distance {
 
 
        double Max,k;
-       Double dist[][]=new Double[100][100];
+       Double dist[][]=new Double[10000][10000];
 
         Max=-1;
         for(i=1;i<=8;i++)
@@ -73,8 +75,7 @@ public class maximum_distance {
             }
         }
      }
-      //System.out.println();
-      //  System.out.println(" m="+m );
+      
         j=2;
         Z[j][Z[j][0]+1]=m;
         Z[j][0]++;
@@ -85,7 +86,7 @@ public class maximum_distance {
        // j++;
 
 
-   int Z1[][]=new int[20][20];
+  
 
    while(true)
  {
@@ -155,7 +156,7 @@ public class maximum_distance {
    for (i =1;i<=8;i++)
 
    {
-         Max=10000;
+         Max=1000000;
           if(visit[i]==0)
           {
               for(p=1;p<=count;p++)
@@ -171,12 +172,6 @@ public class maximum_distance {
               Z[j][0]++;
             }
   }
- System.out.println();
-   for(i=1;i<=count+1;i++)
-        {
-          for(j=1;j<=Z[i][0];j++)
-          System.out.print(Z[i][j]+" ");
-          System.out.println();
-        }
+  
   }
  }
